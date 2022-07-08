@@ -8,4 +8,7 @@ print(x)
 y = 3 + 3
 print (y)
 
+z = 5 * 5
+print (z)
+
 print("HAPPY LEARNING!")
